@@ -19,7 +19,7 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": "",
+  "repository": "https://github.com/taras/cardstack-rss-indexer.git",
   "dependencies": {
     "feedparser-promised": "1.2.2",
     "heimdalljs-logger": "^0.1.8"
